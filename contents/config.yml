@@ -26,3 +26,7 @@ sections:
     nav: AWARDS
     title: AWARDS
     icon: bi-award-fill
+  - id: news
+    nav: NEWS
+    title: NEWS
+    icon: bi-newspaper

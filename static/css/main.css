@@ -182,6 +182,27 @@ section .main-body{
     line-height: 2.4rem;
 }
 
+.main-body .news-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.6rem;
+    width: min(100%, 58rem);
+    margin: 1.4rem auto 2.2rem;
+}
+
+.main-body .news-gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+    .main-body .news-gallery {
+        grid-template-columns: 1fr;
+    }
+}
+
 
 .bg-gradient-primary-to-secondary-light {
     background: linear-gradient(45deg, #fcfcfc, #ffffff) !important;

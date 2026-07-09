@@ -10,10 +10,10 @@
 
 - First-Prize Academic Scholarship, Northwest University, 2023.
 
-- Outstanding Web Editor, <strong>Biogeotechnics</strong>, 2023.
+- Outstanding Intern Editor, <strong>Biogeotechnics</strong>, 2023.
 
 - First-Prize Academic Scholarship, Northwest University, 2024.
 
 - National Scholarship for Doctoral Students, 2024.
 
-- Outstanding Web Editor, <strong>Biogeotechnics</strong>, 2026.
+- Outstanding Intern Editor, <strong>Biogeotechnics</strong>, 2026.
