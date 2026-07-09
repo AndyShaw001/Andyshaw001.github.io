@@ -6,7 +6,7 @@ He is currently an assistant Proferssor in Guizhou Institute of Mountain Resourc
 
 #### Contact
 
-Email: user[at]andyshaw01001@163.com
+Email: andyshaw01001@163.com; axiao@chd.edu.cn
 
 #### Education
 Ph.D., Geological Engineering, Northwest University, 2022-2025.\
