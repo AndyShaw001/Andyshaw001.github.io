@@ -1,12 +1,19 @@
+- First-Prize Academic Scholarship, Northwest University, 2019.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Second-Prize Academic Scholarship, Northwest University, 2020.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- First-Prize Academic Scholarship, Northwest University, 2021.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- National Scholarship for Master's Students, 2021.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- First-Prize Academic Scholarship, Northwest University, 2022.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- First-Prize Academic Scholarship, Northwest University, 2023.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Outstanding Web Editor, <strong>Biogeotechnics</strong>, 2023.
+
+- First-Prize Academic Scholarship, Northwest University, 2024.
+
+- National Scholarship for Doctoral Students, 2024.
+
+- Outstanding Web Editor, <strong>Biogeotechnics</strong>, 2026.
