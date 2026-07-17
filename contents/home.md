@@ -2,7 +2,7 @@
 
 [![Andyshaw001](https://img.shields.io/badge/Andyshaw001-github-blue?logo=github)](https://github.com/Andyshaw001)
 
-He is currently an assistant Proferssor in Guizhou Institute of Mountain Resources.
+He is currently an assistant Professor in Guizhou Institute of Mountain Resources.
 
 #### Contact
 
