@@ -2,8 +2,7 @@ title: Tao Xiao's Homepage
 page-top-title: Tao Xiao
 top-section-bg-text: Hydro-nexus Group
 backgrounds:
-  - static/assets/background/background_0.jpeg
-  - static/assets/background/background_3.jpeg
+  - static/assets/background/background_3.jpg
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Tao Xiao 2014-2026. All Rights Reserved.'
