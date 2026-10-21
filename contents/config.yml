@@ -30,3 +30,7 @@ sections:
     nav: NEWS
     title: NEWS
     icon: bi-newspaper
+  - id: gallery
+    nav: GALLERY
+    title: GALLERY
+    icon: bi-images
