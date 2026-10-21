@@ -12,4 +12,6 @@
   <img src="static/assets/gallery/G11.jpg" alt="Conference photo 11">
   <img src="static/assets/gallery/G12.jpg" alt="Conference photo 12">
   <img src="static/assets/gallery/G13.jpg" alt="Conference photo 13">
+  <img src="static/assets/gallery/G14.jpg" alt="Conference photo 14">
+  <img src="static/assets/gallery/G15.jpg" alt="Conference photo 15">
 </div>
