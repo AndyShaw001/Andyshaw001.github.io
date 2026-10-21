@@ -1,10 +1,8 @@
 #### Submitted
-
-- <strong>Tao Xiao</strong>, Ping Li, Sai K. Vanapalli, et al. Water permeability of saturated hydrate-bearing sediments: A new theoretical model. <strong>Submitted to Canadian Geotechnical Journal, Under Review</strong>.
-
 - <strong>Tao Xiao</strong>, Ping Li, Zhenliang Jiang, Shan Li, Zhaonan Wang, and Sai K. Vanapalli. Root exudates alter soil-water interactions in loess: Insights from isothermal adsorption and liquid bridge experiments. <strong>Submitted to New Phytologist</strong>.
 
 #### First-Author or Corresponding-Author Publications
+- <strong>Tao Xiao</strong>, Ping Li, Xiaokun Hou, Sai K. Vanapalli, Fanyu Zhang, Jiading Wang. Water permeability of saturated hydrate-bearing sediments: A new theoretical model. <strong> Canadian Geotechnical Journal</strong>, https://doi.org/10.1139/cgj-2026-0528.
 
 - <strong>Tao Xiao</strong>, Ping Li, Sai K. Vanapalli, et al. (2026). Effects of root exudates analogues of Robinia pseudoacacia L. on water retention capacity and capillary rise behavior of loess: An experimental study. <strong>Journal of Hydrology</strong>, 358, 108425. (Q1)
 
