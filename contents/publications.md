@@ -27,7 +27,7 @@
 #### Co-Authored Publications
 - Kai Han, Weiguo Zan, Peng Xiao, Jiading Wang, Dengfei Zhang, <strong>Tao Xiao</strong>. (2026). Progressive failure mechanism of sandy loess slopes under mining disturbance-rainfall infiltration effects.  <strong>Bulletin of Engineering Geology and the Environment</strong>, 85, 685. https://doi.org/10.1007/s10064-026-05335-x
 
-- Kai Han, Jiading Wang, Peng Xiao, Dengfei Zhang,  <strong>Tao Xiao<strong>, Qi Gu. (2026). Slope gradient effects on train vibration induced seepage-pathway transition and shallow failure in sandy loess railway slopes. <strong>Transportation Geotechnics</strong>, 102324.
+- Kai Han, Jiading Wang, Peng Xiao, Dengfei Zhang,  <strong>Tao Xiao</strong>, Qi Gu. (2026). Slope gradient effects on train vibration induced seepage-pathway transition and shallow failure in sandy loess railway slopes. <strong>Transportation Geotechnics</strong>, 102324.
 
 - Ping Li, Ji Yang, Xiangcheng Han, Dekun Liu, <strong>Tao Xiao</strong>,Hui Zhai, Fuyu Kai. (2026). Investigating and modelling water content and suction dynamics in vegetated loess. <strong>Environmental Geotechnics</strong>,https://doi.org/10.1680/jenge.25.00173
 
