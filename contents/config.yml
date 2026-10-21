@@ -34,3 +34,7 @@ sections:
     nav: GALLERY
     title: GALLERY
     icon: bi-images
+  - id: collaborators
+    nav: COLLABORATORS
+    title: COLLABORATORS
+    icon: bi-people-fill
