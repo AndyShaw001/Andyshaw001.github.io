@@ -1,5 +1,6 @@
-- **2026** - Served as an Outstanding Intern Editor for **Biogeotechnics**.
-- **2026** - Appointed as an Early Career Editorial Board Member of the **Journal of Geomechanics and Measurements **.
+- **2026** - Served as an Outstanding Intern Editor for </strong>Biogeotechnics</strong>.
+- **2026** - Appointed as an Early Career Editorial Board Member of the </strong>Journal of Geomechanics and Measurements</strong> .
+- **2026** - Appointed as an Early Career Editorial Board Member of the </strong>Continent and Life Evolution </strong>.
 - **2025** - Presented research on plant root exudates and soil-water interactions at the National Engineering Geology Annual Conference in Changsha.
 
 <!--

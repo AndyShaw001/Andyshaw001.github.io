@@ -2,7 +2,7 @@
 - <strong>Tao Xiao</strong>, Ping Li, Zhenliang Jiang, Shan Li, Zhaonan Wang, and Sai K. Vanapalli. Root exudates alter soil-water interactions in loess: Insights from isothermal adsorption and liquid bridge experiments. <strong>Submitted to New Phytologist</strong>.
 
 #### First-Author or Corresponding-Author Publications
-- <strong>Tao Xiao</strong>, Ping Li, Xiaokun Hou, Sai K. Vanapalli, Fanyu Zhang, Jiading Wang. Water permeability of saturated hydrate-bearing sediments: A new theoretical model. <strong> Canadian Geotechnical Journal</strong>, https://doi.org/10.1139/cgj-2026-0528.
+- <strong>Tao Xiao</strong>, Ping Li, Xiaokun Hou, Sai K. Vanapalli, Fanyu Zhang, Jiading Wang. (2026). Water permeability of saturated hydrate-bearing sediments: A new theoretical model. <strong> Canadian Geotechnical Journal</strong>, https://doi.org/10.1139/cgj-2026-0528.
 
 - <strong>Tao Xiao</strong>, Ping Li, Sai K. Vanapalli, et al. (2026). Effects of root exudates analogues of Robinia pseudoacacia L. on water retention capacity and capillary rise behavior of loess: An experimental study. <strong>Journal of Hydrology</strong>, 358, 108425. (Q1)
 
@@ -25,6 +25,11 @@
 - <strong>Tao Xiao</strong>, Ping Li, Yifei Hou, and Yimin Liu (2019). A review of vegetation slope protection. <strong>Journal of Engineering Geology</strong>, 27(Suppl.), 379-385. (in Chinese)
 
 #### Co-Authored Publications
+- Kai Han, Weiguo Zan, Peng Xiao, Jiading Wang, Dengfei Zhang, </strong>Tao Xiao</strong>. (2026). Progressive failure mechanism of sandy loess slopes under mining disturbance-rainfall infiltration effects. Bull Eng Geol Environ 85, 685. https://doi.org/10.1007/s10064-026-05335-x
+
+- Kai Han, Jiading Wang, Peng Xiao, Dengfei Zhang,  </strong>Tao Xiao<strong>, Qi Gu. (2026). Slope gradient effects on train vibration induced seepage-pathway transition and shallow failure in sandy loess railway slopes. <strong>Transportation Geotechnics</strong>, 102324.
+
+- Ping Li, Ji Yang, Xiangcheng Han, Dekun Liu, </strong>Tao Xiao<strong>,Hui Zhai, Fuyu Kai. (2026). Investigating and modelling water content and suction dynamics in vegetated loess. <strong>Environmental Geotechnics</strong>,https://doi.org/10.1680/jenge.25.00173
 
 - Kai Han, Jiading Wang, Peng Xiao, Dengfei Zhang, Bo Cui, and <strong>Tao Xiao</strong> (2025). Study on the sliding mechanism of slopes along railways in loess regions of China under the coupling effect of extreme rainfall and train vibration. <strong>Transportation Geotechnics</strong>, 101513.
 
