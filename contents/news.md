@@ -1,6 +1,6 @@
-- **2026** - Served as an Outstanding Intern Editor for </strong>Biogeotechnics</strong>.
-- **2026** - Appointed as an Early Career Editorial Board Member of the </strong>Journal of Geomechanics and Measurements</strong> .
-- **2026** - Appointed as an Early Career Editorial Board Member of the </strong>Continent and Life Evolution </strong>.
+- **2026** - Served as an Outstanding Intern Editor for <strong>Biogeotechnics</strong>.
+- **2026** - Appointed as an Early Career Editorial Board Member of the <strong>Journal of Geomechanics and Measurements</strong> .
+- **2026** - Appointed as an Early Career Editorial Board Member of the <strong>Continent and Life Evolution</strong>.
 - **2025** - Presented research on plant root exudates and soil-water interactions at the National Engineering Geology Annual Conference in Changsha.
 
 <!--
@@ -14,6 +14,8 @@ Then use this layout:
   <img src="static/assets/news/example-2.jpg" alt="Award ceremony">
 </div>
 -->
+
+- **2026** - Hydro-nexus Group first published a study on natural gas hydrate in **CGJ**.
 
 - **2024** - Presented work on the effects of vegetation root exudates on loess hydraulic and water-sensitive properties at the Second Symposium on Loess Mechanics and Engineering Disaster Prevention in Xi'an.
 
